@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">I'm Sushovan, a passionate and creative developer from Nepal. With a love for coding and a knack for problem-solving, I'm always ready to tackle new challenges and build amazing things.<br>🌱 I’m currently learning Python</h2>
+<h2 align="left">I'm Sushovan, a passionate and creative developer from Nepal. With a love for coding and a knack for problem-solving, I'm always ready to tackle new challenges and build amazing things.<br>🌱 I’m currently learning Python.</h2>
 
 ###
 
